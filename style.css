@@ -1,0 +1,59 @@
+a {
+    text-decoration: none;
+    color: #2B5F75;
+}
+
+.aboutme {
+    color:white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.aboutme h1 {
+    color: #2B5F75;
+}
+
+.p{
+    font-size: 150%;
+    background-color: #2B5F75;
+}
+
+nav {
+    text-align: center;
+}
+
+.in-site-links li {
+    font-size: 120%;
+    list-style-type: none;
+    display: inline-block;
+    width: 120px;
+    margin: 0 10px;
+
+}
+
+.colorbuff{
+    height: 50px;
+    background-color: #2B5F75;
+}
+
+.interestP {
+    padding: 20px;
+    background-color: #2B5F75;
+    color: white;
+}
+
+.expertiseP {
+    text-align: center;
+    font-size: 150%;
+    padding: 20px;
+    background-color: #2B5F75;
+    color: white;
+}
+
+.mantraP {
+    text-align: center;
+    padding: 20px;
+    background-color: #2B5F75;
+    color: white;
+}
